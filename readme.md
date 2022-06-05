@@ -13,5 +13,3 @@ Python & ML
 
 ## Resources
 Krish Naik
-
-
